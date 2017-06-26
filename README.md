@@ -25,5 +25,3 @@ It sends an email to you when a server is available.
 - 150sk22 = KS-2 SSD
 - 150sk20 = KS-2
 - 150sk10 = KS-1
-
-![Piwik Statistics](https://piwik.n3xus.de/piwik.php?idsite=20&rec=1)
