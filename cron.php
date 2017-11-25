@@ -2,9 +2,9 @@
 /*
 
 	Author:		DatN3xus
-	URL: 		https://github.com/DatN3xus
-			https://n3xus.de
-	Contact:	pun1a@4players.de
+	URL: 		https://github.com/3lue
+			https://3lue.de
+	Contact:	dennis@blaumedia.com
 
 	Title: 		kimsufi-alert
 	Description:	Sends an email, if a specific server is available at kimsufi.com.
